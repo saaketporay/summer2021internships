@@ -1,5 +1,6 @@
 # Summer 2021 Internships
 
+Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) who who made a similar document for the 2020 recruiting season for inspiration!
 
 To contribute:
 
